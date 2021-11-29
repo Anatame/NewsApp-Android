@@ -16,8 +16,4 @@
         android:icon="@drawable/ic_all_news"
         />
 
-    <item android:id="@+id/breakingNewsFragment"
-        android:title="Breaking News"
-        android:icon="@drawable/ic_breaking_news"
-        />
 </menu>

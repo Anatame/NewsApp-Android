@@ -1,6 +1,4 @@
-package com.androiddevs.mvvmnewsapp
-
-import com.google.gson.annotations.SerializedName
+package com.androiddevs.mvvmnewsapp.models
 
 data class NewsResponse(
     val articles: List<Article>,
